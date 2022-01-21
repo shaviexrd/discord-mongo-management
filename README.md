@@ -1,2 +1,3 @@
-# discord-mongo-management
-Discord v12 MongoDB Management Bot
+# Discord v12 MongoDB Management Bot
+
+Hatasız, gelişmiş public/ekip sunucularında kullanabileceğiniz moderasyon botunu yakında buraya ekleyeceğim.
